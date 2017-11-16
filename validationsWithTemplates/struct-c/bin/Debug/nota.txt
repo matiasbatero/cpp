@@ -1,0 +1,16 @@
+caso de prueba:
+
+Validation1 = Valida que el numero ingresado sea menor que 4 solamente.
+Validation2 = Valida que el numero ingresado sea menor que 4 y además que esté en el rango 100 a 200.
+
+el test_main permanece invariante.
+
+Para Validation1 se puede probar:
+
+numero --> 2  (arroja mensaje de excepción)
+numero --> 700 ( OK )
+
+Para Validation2
+
+numero --> 2  (arroja mensaje de excepción)
+numero -->700 (arroja mensaje de excepción)

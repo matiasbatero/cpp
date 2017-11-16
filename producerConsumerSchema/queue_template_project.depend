@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1441829038 source:c:\users\matt\desktop\tpprog2\queuetemplate\main.cpp
+	<iostream>
+	"./types/container/QueueCircular.hpp"
+
+1441829038 ontainer/QueueCircular.hpp"
+
+1441828986 c:\users\matt\desktop\tpprog2\queuetemplate\types\container\queuecircular.hpp
+	"../../interface/IQueue.hpp"
+
+1441828986 erface/IQueue.hpp"
+
+1441821683 c:\users\matt\desktop\tpprog2\queuetemplate\interface\iqueue.hpp
+
+1442532817 source:/home/matt/TPprog2/ProducerConsumer/main.cpp
+	<iostream>
+	"./types/container/QueueCircular.hpp"
+	"./types/sync/pthread_wrapper.hpp"
+
+1441828988 /home/matt/TPprog2/ProducerConsumer/types/container/QueueCircular.hpp
+	"../../interface/IQueue.hpp"
+
+1441821684 /home/matt/TPprog2/ProducerConsumer/interface/IQueue.hpp
+
+1442531444 /home/matt/TPprog2/ProducerConsumer/types/sync/pthread_wrapper.hpp
+	<pthread.h>
+	<semaphore.h>
+

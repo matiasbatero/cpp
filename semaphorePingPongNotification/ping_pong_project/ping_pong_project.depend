@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1442530876 source:/home/matt/TPprog2/PingPong/ping_pong_project/main.cpp
+	<iostream>
+	<unistd.h>
+	"pthread_wrapper.hpp"
+
+1442530168 /home/matt/TPprog2/PingPong/ping_pong_project/pthread_wrapper.hpp
+	<pthread.h>
+	<semaphore.h>
+

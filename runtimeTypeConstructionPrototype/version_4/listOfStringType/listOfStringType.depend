@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1446671344 source:c:\users\administrator\documents\test\version_4\listofstringtype\main.cpp
+	"main.h"
+
+1446671344 c:\users\administrator\documents\test\version_4\listofstringtype\main.h
+	<windows.h>
+

@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1442548437 source:/home/matt/TPprog2/ProducerConsumer/main.cpp
+	<iostream>
+	<unistd.h>
+	"./types/container/QueueCircular.hpp"
+	"./types/sync/pthread_wrapper.hpp"
+
+1442548334 /home/matt/TPprog2/ProducerConsumer/types/container/QueueCircular.hpp
+	"../../interface/IQueue.hpp"
+
+1441821684 /home/matt/TPprog2/ProducerConsumer/interface/IQueue.hpp
+
+1442531444 /home/matt/TPprog2/ProducerConsumer/types/sync/pthread_wrapper.hpp
+	<pthread.h>
+	<semaphore.h>
+

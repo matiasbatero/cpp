@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1489040474 source:c:\users\administrator\documents\test\test\main.cpp
+	<iostream>
+	<list>
+
+1489116948 source:c:\users\administrator\documents\test\version_1\main.cpp
+	<iostream>
+	<list>
+
+1489249351 source:c:\users\administrator\documents\test\version_2\main.cpp
+	<iostream>
+	<list>
+
+1489266785 source:c:\users\administrator\documents\test\version_3\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<algorithm>
+

@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1441866837 source:c:\users\matt\desktop\tpprog2\queuewithoutparametrization\main.cpp
+	"./interface/IQueue.hpp"
+	"./types/factories/QueueFactory.hpp"
+	"./interface/IFactory.hpp"
+	"./types/factories/IntegerFactory.hpp"
+	<iostream>
+
+1441865700 
+
+1441865416 c:\users\matt\desktop\tpprog2\queuewithoutparametrization\interface\ifactory.hpp
+
+1441862768 c:\users\matt\desktop\tpprog2\queuewithoutparametrization\types\factories\finteger.hpp
+	"../../interface/IFactory.hpp"
+	"../../interface/ISizable.hpp"
+
+1441867197 erface/ISizable.hpp"
+
+1441865700 c:\users\matt\desktop\tpprog2\queuewithoutparametrization\types\container\queuecircular.hpp
+	"../../interface/IQueue.hpp"
+	"../../interface/IFactory.hpp"
+	<cstring>
+
+1441832589 c:\users\matt\desktop\tpprog2\queuewithoutparametrization\interface\iqueue.hpp
+
+1441859041 c:\users\matt\desktop\tpprog2\queuewithoutparametrization\interface\isizable.hpp
+
+1441866643 c:\users\matt\desktop\tpprog2\queuewithoutparametrization\types\factories\queuefactory.hpp
+	<iostream>
+	"../../interface/IQueue.hpp"
+	"../../interface/IFactory.hpp"
+	"../../types/container/QueueCircular.hpp"
+
+1441866643 es/container/QueueCircular.hpp"
+
+1441867197 c:\users\matt\desktop\tpprog2\queuewithoutparametrization\types\factories\integerfactory.hpp
+	"../../interface/IFactory.hpp"
+	"../../interface/ISizable.hpp"
+
+1441920269 source:/home/matt/TPprog2/QueueWithoutParametrization/main.cpp
+	"./interface/IQueue.hpp"
+	"./types/factories/QueueFactory.hpp"
+	"./interface/IFactory.hpp"
+	"./types/factories/IntegerFactory.hpp"
+	<iostream>
+
+1441908469 /home/matt/TPprog2/QueueWithoutParametrization/interface/IQueue.hpp
+
+1441920443 /home/matt/TPprog2/QueueWithoutParametrization/types/factories/QueueFactory.hpp
+	<iostream>
+	<cstdarg>
+	"../../interface/IQueue.hpp"
+	"../../interface/IFactory.hpp"
+	"../../types/container/QueueCircular.hpp"
+
+1441915875 /home/matt/TPprog2/QueueWithoutParametrization/interface/IFactory.hpp
+
+1441918351 /home/matt/TPprog2/QueueWithoutParametrization/types/container/QueueCircular.hpp
+	"../../interface/IQueue.hpp"
+	"../../interface/IFactory.hpp"
+	<cstring>
+
+1441917093 /home/matt/TPprog2/QueueWithoutParametrization/types/factories/IntegerFactory.hpp
+	"../../interface/IFactory.hpp"
+
+1441859042 /home/matt/TPprog2/QueueWithoutParametrization/interface/ISizable.hpp
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1460253015 source:/home/matt/C++/IMessenger/AnyClientExecutable/clientAnyDll/main.cpp
+	<iostream>
+	"../../AnySharedDLL/any.hpp"
+	<dlfcn.h>
+
+1459701404 /home/matt/C++/IMessenger/AnyClientExecutable/clientAnyDll/any.hpp
+	<iostream>
+	<typeinfo>
+	<stdexcept>
+	<list>
+
+1459999695 /home/matt/C++/IMessenger/AnySharedDLL/any.hpp
+	<iostream>
+	<typeinfo>
+	<cstring>
+

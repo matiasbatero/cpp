@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1360446814 source:/home/user/programas/Select_refactoring_06/main.cpp
+	<iostream>
+	<memory.h>
+	"sequence.h"
+
+1360446897 /home/user/programas/Select_refactoring_06/sequence.h
+	<iostream>
+	<memory.h>
+	"predicate.h"
+
+1347507954 /home/user/programas/Select_refactoring_06/predicate.h
+
+1393971901 source:/home/user/Dropbox/Codeblocks/Select_refactoring_06/main.cpp
+	<iostream>
+	<memory.h>
+	"sequence.h"
+
+1393971901 /home/user/Dropbox/Codeblocks/Select_refactoring_06/sequence.h
+	<iostream>
+	<memory.h>
+	"predicate.h"
+
+1393971901 /home/user/Dropbox/Codeblocks/Select_refactoring_06/predicate.h
+

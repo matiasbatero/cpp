@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1458592726 source:/home/matt/C++/IMessenger/IMessenger/main.cpp
+	<iostream>
+	"../../Any/Any.hpp"
+	"IMessenger.hpp"
+
+1458592499 /home/matt/C++/Any/Any.hpp
+
+1458592808 /home/matt/C++/IMessenger/IMessenger/IMessenger.hpp
+

@@ -1,0 +1,7 @@
+EXPORTS
+    _ZN10_exceptionC1ESs @1
+    _ZN10_exceptionD1Ev @2
+    _ZTI10_exception @3 DATA
+    _ZTS10_exception @4 DATA
+    _get_output_format @5
+    printNumberRules @6

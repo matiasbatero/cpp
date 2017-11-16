@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1440830798 source:c:\users\matt\code\threadproject\threadproject\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+	"writer.h"
+
+1440809418 c:\users\matt\code\threadproject\threadproject\writer.h
+	"action.h"
+	"thread.h"
+
+1440809326 c:\users\matt\code\threadproject\threadproject\action.h
+
+1440812011 c:\users\matt\code\threadproject\threadproject\thread.h
+	"action.h"
+	<windows.h>
+
+1440827695 source:c:\users\matt\code\threadproject\threadproject\thread.cpp
+	"thread.h"
+

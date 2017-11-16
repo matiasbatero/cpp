@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1487819375 source:c:\users\matt\work\codeblocks-cpp\struct-c\main.cpp
+	<iostream>
+	"simple_exception.h"
+	"validations.h"
+	"requeriments.h"
+
+1487819644 c:\users\matt\work\codeblocks-cpp\struct-c\simple_exception.h
+	<iostream>
+
+1487817801 c:\users\matt\work\codeblocks-cpp\struct-c\requeriments.h
+
+1487817536 c:\users\matt\work\codeblocks-cpp\struct-c\validations.h
+
